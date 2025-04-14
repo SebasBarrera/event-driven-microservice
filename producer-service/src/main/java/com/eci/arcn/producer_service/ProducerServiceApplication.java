@@ -1,4 +1,4 @@
-package com.eci.arcn.producer_service;
+package com.eci.arcn.producerservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
