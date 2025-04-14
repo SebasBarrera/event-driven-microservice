@@ -1,4 +1,4 @@
-package com.eci.arcn.consumerservice.config;
+package com.eci.arcn.consumer_service.config;
 
 import org.springframework.amqp.core.Queue;
 import org.springframework.beans.factory.annotation.Value;

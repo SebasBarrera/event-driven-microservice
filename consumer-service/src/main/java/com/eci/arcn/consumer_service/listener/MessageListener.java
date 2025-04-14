@@ -1,4 +1,4 @@
-package com.eci.arcn.consumerservice.listener;
+package com.eci.arcn.consumer_service.listener;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
