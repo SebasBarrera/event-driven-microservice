@@ -1,4 +1,4 @@
-package com.eci.arcn.producerservice.controller;
+package com.eci.arcn.producer_service.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

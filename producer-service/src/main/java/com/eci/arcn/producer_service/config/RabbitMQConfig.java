@@ -1,4 +1,4 @@
-package com.eci.arcn.producerservice.config;
+package com.eci.arcn.producer_service.config;
 
 import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.BindingBuilder;
